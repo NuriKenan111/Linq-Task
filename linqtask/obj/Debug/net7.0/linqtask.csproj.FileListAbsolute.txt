@@ -1,0 +1,15 @@
+/Users/kenan/Desktop/LinqTask/linqtask/bin/Debug/net7.0/linqtask
+/Users/kenan/Desktop/LinqTask/linqtask/bin/Debug/net7.0/linqtask.deps.json
+/Users/kenan/Desktop/LinqTask/linqtask/bin/Debug/net7.0/linqtask.runtimeconfig.json
+/Users/kenan/Desktop/LinqTask/linqtask/bin/Debug/net7.0/linqtask.dll
+/Users/kenan/Desktop/LinqTask/linqtask/bin/Debug/net7.0/linqtask.pdb
+/Users/kenan/Desktop/LinqTask/linqtask/obj/Debug/net7.0/linqtask.csproj.AssemblyReference.cache
+/Users/kenan/Desktop/LinqTask/linqtask/obj/Debug/net7.0/linqtask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenan/Desktop/LinqTask/linqtask/obj/Debug/net7.0/linqtask.AssemblyInfoInputs.cache
+/Users/kenan/Desktop/LinqTask/linqtask/obj/Debug/net7.0/linqtask.AssemblyInfo.cs
+/Users/kenan/Desktop/LinqTask/linqtask/obj/Debug/net7.0/linqtask.csproj.CoreCompileInputs.cache
+/Users/kenan/Desktop/LinqTask/linqtask/obj/Debug/net7.0/linqtask.dll
+/Users/kenan/Desktop/LinqTask/linqtask/obj/Debug/net7.0/refint/linqtask.dll
+/Users/kenan/Desktop/LinqTask/linqtask/obj/Debug/net7.0/linqtask.pdb
+/Users/kenan/Desktop/LinqTask/linqtask/obj/Debug/net7.0/linqtask.genruntimeconfig.cache
+/Users/kenan/Desktop/LinqTask/linqtask/obj/Debug/net7.0/ref/linqtask.dll
